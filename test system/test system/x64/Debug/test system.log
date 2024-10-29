@@ -1,0 +1,35 @@
+﻿  test.c
+D:\Microsoft Visual Studio\my\test system\test.c(180,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Microsoft Visual Studio\my\test system\test.c(111,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(117,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(170,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(284,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(290,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(364,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(365,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(366,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(382,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(383,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(384,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(417,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(424,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(514,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(754,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(760,78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(793,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(801,78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(860,13): warning C4133: “函数”: 从“int [1]”到“char *”的类型不兼容
+D:\Microsoft Visual Studio\my\test system\test.c(864,44): warning C4133: “函数”: 从“int [1]”到“char *”的类型不兼容
+D:\Microsoft Visual Studio\my\test system\test.c(852,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(868,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(874,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(903,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(909,78): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(951,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(961,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(969,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(976,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(1039,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Microsoft Visual Studio\my\test system\test.c(506,1): warning C4715: “input”: 不是所有的控件路径都返回值
+D:\Microsoft Visual Studio\my\test system\test.c(367,1): warning C4716: “entering_password”: 必须返回一个值
+  test system.vcxproj -> D:\Microsoft Visual Studio\my\test system\x64\Debug\test system.exe
